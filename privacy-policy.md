@@ -1,6 +1,6 @@
 Политика конфиденциальности приложения «EuroJackpot AI Smart Generator»
 
-Разработчик: krumbix
+Разработчик: Vitalij Frizen
 
 Контактный e-mail: asderfvf@hotmail.com
 
