@@ -74,4 +74,4 @@ com.google.android.gms.permission.AD_ID (при наличии) — доступ
 
 10. Контакты
 
-По вопросам конфиденциальности свяжитесь с нами: asderfvf@gmail.com
+По вопросам конфиденциальности свяжитесь с нами: asderfvf@hotmail.com
